@@ -1,0 +1,3 @@
+# Aprendiendo Data Science
+
+Aquí iré dejando los jupyter notebooks que vaya haciendo mientras aprendo data mining, machine learning...
